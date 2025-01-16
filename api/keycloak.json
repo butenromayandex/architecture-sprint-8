@@ -1,0 +1,11 @@
+{
+  "resource": "reports-api",
+  "realm": "reports-realm",
+  "auth-server-url": "http://localhost:8080",
+  "enabled": true,
+  "credentials": {
+    "secret" : "oNwoLQdvJAvRcL89SydqCWCe5ry1jMgq"
+  },
+  "bearerOnly": true,
+  "realmPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzW3c3v9zw+WMBRAvjLrNCtr53ihadl6VqJca7QEdcaDBn8JbpRKsb7uwvGW4LCI1sYU5gME2089TxuhAmqRYHacY7UdVUaeIqIPnPBQ0w6p7myjrVmgsPXUamdSTAL7mTXjag3CXDwAFYnm2ob0/asVw0DWjIxMH6xu6FsOacBUBOZflb39m+SXPn/wO3N2hr6u8VELH4aqvwBSfv6YNmXD3CsHZK33/Cg2VuSG2s1O5p80peCq1rNqbdmbNIau8XqgFcr6/D2B1/taPfEDpd0RzdDn2IwAMZBsa655D5iXAGiQL8hVq2W9PuZ6DTH9n3ywhowwnK+KQjUoyEHq09wIDAQAB"
+}
