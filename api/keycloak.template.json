@@ -1,0 +1,11 @@
+{
+  "resource": "",
+  "realm": "",
+  "auth-server-url": "",
+  "enabled": true,
+  "credentials": {
+    "secret" : ""
+  },
+  "bearerOnly": true,
+  "realmPublicKey": ""
+}
